@@ -5,3 +5,32 @@
 .feature-title{
     color: brown;
 }
+
+#info{
+    padding-left: 5%;
+}
+
+#Summary{
+    padding-left: 55%;
+}
+
+#skils{
+    padding-left: 5%;
+}
+
+#code{
+    padding-left: 55%;
+}
+#expiriens{
+    padding-left: 5%;
+}
+
+#education{
+    padding-left: 55%;
+}
+#eng{
+    padding-left: 5%;
+}
+#foot{
+    padding-left: 40%;
+}
